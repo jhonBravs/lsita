@@ -1,8 +1,29 @@
-#EXTINF:-1  group-title= "CHILE" , tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT79OrPzpl2r8LLt2-p6rHLSDi41By0rJwwKY6TXgoiSxnVO8dGSIgWLGb0s0336ZkRGZM&usqp=CAU" , TNT Sports[HD]
+#EXTINF:-1  group-title= "Premiun" , tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT79OrPzpl2r8LLt2-p6rHLSDi41By0rJwwKY6TXgoiSxnVO8dGSIgWLGb0s0336ZkRGZM&usqp=CAU" , TNT Sports[HD]
 https://d3junmnzdfp8ej.cloudfront.net/hls/tv_540p30.m3u8
 
-#EXTINF:-1  group-title= "PAISES" , tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDoriPcKT8LCozEQy9SVThyxFqMmvsU7tOLGn0LSREQBBzJ93PNzS4AP9FrL-jZjsNIvg&usqp=CAU" , HBO 2 [HD]
+#EXTINF:-1  group-title= "Premiun" , tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDoriPcKT8LCozEQy9SVThyxFqMmvsU7tOLGn0LSREQBBzJ93PNzS4AP9FrL-jZjsNIvg&usqp=CAU" , HBO 2 [HD]
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
 
-#EXTINF:-1  group-title= "PAISES" , tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4DUz-EkTov-DjW11R8mWmjNMdFsnT9EOXtjZ2lu4EJtJ_ROTr8UyOxQqjV61LJz9sWbQ&usqp=CAU" ,  Warner TV[HD]
+#EXTINF:-1  group-title= "Premiun" , tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4DUz-EkTov-DjW11R8mWmjNMdFsnT9EOXtjZ2lu4EJtJ_ROTr8UyOxQqjV61LJz9sWbQ&usqp=CAU" ,  Warner TV[HD]
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
+-----
+#EXTINF:-1  group-title= "Premiun" , tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5rUPHb1OZzfiQLRoQkBfOj96wzEB6ro1OLw&usqp=CAU" ,  Disney XD [HD]
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
+
+#EXTINF:-1  group-title= "Premiun" , tvg-logo="https://cdn.elimpulso.com/media/2022/02/Directv_sport.jpg" ,  Directv Sport [HD]
+https://dtv-latam-abc.akamaized.net/dash/live/700426/dtv/DTV-ABC-dtvsportsargentina/master.mpd
+
+#EXTINF:-1  group-title= "Premiun" , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/2560px-Star_Channel_2020.svg.png" ,  Star Chanel[HD]
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+
+#EXTINF:-1  group-title= "Premiun" , tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdxLlmPPJjMsMzuNU-ACdyrPV91MBo1Ladqw&usqp=CAU" ,  Universal Chanel[HD]
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
+
+#EXTINF:-1  group-title= "Premiun" , tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMSDpWBX-gAQsn1MCkBz6Qp5edKZIMPx9hhA&usqp=CAU" ,  Discovery Kids[HD]
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
+
+#EXTINF:-1  group-title= "Premiun" , tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgyG71_qqS-_VbJKFCrmSqKd6XFykux7l0Ktfxahmu2eABQYyM11u6-xGBEkZGC7_Zv58&usqp=CAU" ,  Disney chanel [HD]
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
+
+#EXTINF:-1  group-title= "Premiun" , tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk7T8aZ3VgkciIqg0adcWN6l8kP1NMhjDQBw&usqp=CAU" ,  Sspn Sport TV[HD]
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
