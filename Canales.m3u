@@ -10,8 +10,8 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3
 #EXTINF:-1  group-title= "Premiun" , tvg-logo="https://1.bp.blogspot.com/-0ZqQxL_JQpE/XW3H1KcpKeI/AAAAAAAAAHo/FA9bdZep8Z02Lw2tyzx4RWb-i3ztz95bwCLcBGAs/s1600/disney-xd.png" ,  Disney XD [HD]
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
 
-#EXTINF:-1  group-title= "Premiun" , tvg-logo="https://1.bp.blogspot.com/-c-qLxW9brFU/XW3HxGwAZwI/AAAAAAAAAG0/7MKlYAZu8d8T5h9waIkpHEMcpg-QUYjWgCLcBGAs/s1600/directv-sports-plus.png" ,  Directv Sport [HD]
-https://chupachichi6.site/live/flowitc96js.m3u8
+#EXTINF:-1  group-title= "Premiun" , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" , HBO PLUS [HD]
+https://edge01-fdo-py.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
 
 #EXTINF:-1  group-title= "Premiun" , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png/2560px-Star_Channel_2021.png" ,  Star Chanel[HD]
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
@@ -33,3 +33,27 @@ https://edge01-fdo-py.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m
 
 #EXTINF:-1  group-title= "Premiun" , tvg-logo="https://1.bp.blogspot.com/-XvtVf3QbnYo/XW3IL2Yud0I/AAAAAAAAAKw/gAid59E_WawZ2Zr1aTtphjXKMSvjkNKYwCLcBGAs/s1600/history-2.png" , History Chanel 2[HD]
 https://edge01-fdo-py.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
+
+#EXTINF:-1  group-title= "Premiun" , tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarSeries_Logo2021_FondoOscuro.png.4ad15cde8e848ef14a7b1deb71b3c4c7.png" , Star+ Serie[HD]
+https://edge01-fdo-py.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+
+#EXTINF:-1  group-title= "Premiun" , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" , HBO FAMILY[HD]
+https://edge01-fdo-py.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
+
+#EXTINF:-1  group-title= "Premiun" , tvg-logo="https://www.foromedios.com/uploads/monthly_2019_12/large.logo-hboMundi2020.png.b148da8bf68c9e3b8c9f7b961d6aee55.png" , HBO Mundi[HD]
+https://edge01-fdo-py.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8
+
+#EXTINF:-1  group-title= "Premiun" , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png" , HBO 2[HD]
+https://edge01-fdo-py.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
+
+#EXTINF:-1  group-title= "Premiun" , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" , TNT TV[HD]
+https://edge01-fdo-py.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
+
+#EXTINF:-1  group-title= "Premiun" , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" , TNT SERIES[HD]
+https://edge01-fdo-py.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
+
+#EXTINF:-1  group-title= "Premiun" , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" , Bumeran TV[HD]
+https://edge01-fdo-py.cvattv.com.ar/live/c7eds/Boomerang/SA_SAGEMCOM/Boomerang.m3u8
+
+#EXTINF:-1  group-title= "Premiun" , tvg-logo="https://w7.pngwing.com/pngs/350/177/png-transparent-nickelodeon-logo-nick-jr-television-show-cartoon-logo-miscellaneous-text-orange.png" , Nickelodeon [HD]
+https://edge01-fdo-py.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8
