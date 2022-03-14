@@ -10,8 +10,8 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3
 #EXTINF:-1  group-title= "Premiun" , tvg-logo="https://1.bp.blogspot.com/-0ZqQxL_JQpE/XW3H1KcpKeI/AAAAAAAAAHo/FA9bdZep8Z02Lw2tyzx4RWb-i3ztz95bwCLcBGAs/s1600/disney-xd.png" ,  Disney XD [HD]
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
 
-#EXTINF:-1  group-title= "Premiun" , tvg-logo="https://1.bp.blogspot.com/-p87V-CJU_ik/XW3HxR7WrcI/AAAAAAAAAG4/X_XbBPgmD7A6hLH9s8A0UJi0deMYQJ0TACLcBGAs/s1600/directv-sports.png" ,  Directv Sport [HD]
-https://dtv-latam-abc.akamaized.net/dash/live/700426/dtv/DTV-ABC-dtvsportsargentina/master.mpd
+#EXTINF:-1  group-title= "Premiun" , tvg-logo="https://1.bp.blogspot.com/-c-qLxW9brFU/XW3HxGwAZwI/AAAAAAAAAG0/7MKlYAZu8d8T5h9waIkpHEMcpg-QUYjWgCLcBGAs/s1600/directv-sports-plus.png" ,  Directv Sport [HD]
+https://chupachichi6.site/live/flowitc96js.m3u8
 
 #EXTINF:-1  group-title= "Premiun" , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png/2560px-Star_Channel_2021.png" ,  Star Chanel[HD]
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
@@ -27,3 +27,9 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/Disn
 
 #EXTINF:-1  group-title= "Premiun" , tvg-logo="https://1.bp.blogspot.com/-Bm9EXNKVDd4/Xaf5SKTMQkI/AAAAAAAAAck/d3COZC1fbNsD6vqbGDouC8Q7fgtyVm3RwCLcBGAsYHQ/s1600/sportv.png" ,  Spn Sport TV[HD]
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+
+#EXTINF:-1  group-title= "Premiun" , tvg-logo="https://1.bp.blogspot.com/-aiaFU0gr9hs/XW3IMRoiEJI/AAAAAAAAAK0/fyQMRlYeZcELNQLsXn1Ip2YRZyyl_GoBwCLcBGAs/s1600/history-channel.png" , History Chanel[HD]
+https://edge01-fdo-py.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
+
+#EXTINF:-1  group-title= "Premiun" , tvg-logo="https://1.bp.blogspot.com/-XvtVf3QbnYo/XW3IL2Yud0I/AAAAAAAAAKw/gAid59E_WawZ2Zr1aTtphjXKMSvjkNKYwCLcBGAs/s1600/history-2.png" , History Chanel 2[HD]
+https://edge01-fdo-py.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
